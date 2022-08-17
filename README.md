@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming, especially Python.
 - 🌱 I’m currently learning Python programming.
 - 💞️ I’m looking to collaborate on small projects.
-- 📫 How to reach me @alihaisul
+- 📫 How to reach me @alihaidersultani
