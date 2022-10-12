@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alihaidersultani
-- 👀 I’m interested in programming, especially Python.
-- 🌱 I’m currently learning Python programming.
+- 👀 I’m interested in front-end developing & Python programming.
+- 🌱 I’m currently learning Javascript & Python programming.
 - 💞️ I’m looking to collaborate on small projects.
-- 📫 How to reach me @alihaidersultani
+- 📫 How to reach me @alihaidersultani.
